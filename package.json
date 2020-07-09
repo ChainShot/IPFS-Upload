@@ -1,0 +1,12 @@
+{
+  "name": "ipfsupload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "browserslist": [
+      "> 5%"
+  ],
+  "dependencies": {
+    "ipfs-api": "^26.1.2"
+  }
+}

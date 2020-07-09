@@ -1,0 +1,25 @@
+body {
+  background-color: #eee;
+  display: flex;
+  font-family: 'Muli', sans-serif;
+}
+
+h1 {
+  margin: 10px 0 30px;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.ui {
+  flex-grow: 1;
+  margin: 20px 40px;
+  padding: 10px 60px;
+  border-radius: 20px;
+  background-color: #fff;
+  font-size: 1.25em;
+  border: 1px solid #ddd;
+}
+
+#status {
+  margin: 20px 0;
+}
