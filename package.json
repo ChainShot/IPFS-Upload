@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "browserslist": [
-      "> 5%"
+    "> 5%"
   ],
   "dependencies": {
-    "ipfs-api": "^26.1.2"
+    "ipfs-http-client": "^46.1.1"
   }
 }
