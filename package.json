@@ -7,6 +7,6 @@
     "> 5%"
   ],
   "dependencies": {
-    "ipfs-http-client": "^46.1.1"
+    "ipfs-http-client": "^52.0.1"
   }
 }
